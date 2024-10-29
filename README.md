@@ -1,6 +1,8 @@
 ## INTRODUCTION
 
-Intergration between [Localgov Drupal](https://localgovdrupal.org) and [Tasty backend](https://drupal.org/project/tasty_backend).
+Intergration between [Localgov Drupal](https://localgovdrupal.org) and [Tasty backend](https://drupal.org/project/tasty_backend). Tasty backend provides an alternative administrative interface and menu tailored to content designers and editors, bringing content focused tasks front and center whilst hiding the more Drupal site building tasks away for those that don't need them.
+
+Note: Currently this only works with the classic admin toolbar.
 
 ## REQUIREMENTS
 
