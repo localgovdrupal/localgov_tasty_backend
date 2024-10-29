@@ -1,7 +1,7 @@
 name: 'Localgov tasty backend'
 type: module
 description: 'Tasty backend intergration with Localgov Drupal'
-package: LocalGov Drupal - Contrib
+package: LocalGov Drupal (Experimental)
 lifecycle: experimental
 core_version_requirement: ^10
 dependencies:
